@@ -126,6 +126,7 @@ namespace QLKhachSan
             this.ribbonPage1});
             this.ribbon.Size = new System.Drawing.Size(1460, 214);
             this.ribbon.StatusBar = this.ribbonStatusBar;
+            this.ribbon.Click += new System.EventHandler(this.ribbon_Click);
             // 
             // btnHome
             // 

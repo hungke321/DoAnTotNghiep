@@ -133,7 +133,6 @@
     <Compile Include="frmQLPhongDaDat.Designer.cs">
       <DependentUpon>frmQLPhongDaDat.cs</DependentUpon>
     </Compile>
-    <Compile Include="ketnoiCSDL.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmMenu.resx">
@@ -285,6 +284,10 @@
     <ProjectReference Include="..\BUS\BUS.csproj">
       <Project>{b1f69be0-efe0-43d1-98df-342e974b6c2f}</Project>
       <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{1E6D32B2-F5D0-445F-937B-FC60A896A75D}</Project>
+      <Name>DTO</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

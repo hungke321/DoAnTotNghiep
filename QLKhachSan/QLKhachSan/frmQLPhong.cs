@@ -23,5 +23,10 @@ namespace QLKhachSan
             this.Close();
           
         }
+
+        private void frmQLPhong_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

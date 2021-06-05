@@ -404,3 +404,9 @@ C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\QLKhachSan\bin\Debug\es\DevE
 C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\QLKhachSan\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
 C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\QLKhachSan\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
 C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CopyComplete
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\QLKhachSan\bin\Debug\DTO.exe
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\QLKhachSan\bin\Debug\DAO.exe
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\QLKhachSan\bin\Debug\DTO.pdb
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\QLKhachSan\bin\Debug\DTO.exe.config
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\QLKhachSan\bin\Debug\DAO.pdb
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\QLKhachSan\bin\Debug\DAO.exe.config

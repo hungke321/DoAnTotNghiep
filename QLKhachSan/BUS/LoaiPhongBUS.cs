@@ -1,27 +1,21 @@
-﻿using System;
+﻿using DAO;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DTO;
 
 namespace BUS
 {
     public class LoaiPhongBUS
-    {
-        private static LoaiPhongBUS instance;
-        internal static LoaiPhongBUS Instance
+    {     
+        LoaiPhongDAO lp = new LoaiPhongDAO();
+        public LoaiPhongDTO[] GetList()
         {
-            get
-            {
-                if (instance == null)
-                    instance = new LoaiPhongBUS();
-                return instance;
-            }
+            return lp.GetList();
         }
-        private LoaiPhongBUS() { }
-        public void Xem(DataGridView Data) { }
-
 
     }
 }

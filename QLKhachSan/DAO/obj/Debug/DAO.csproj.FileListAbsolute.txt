@@ -11,3 +11,11 @@ C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\DAO\obj\Debug\DAO.csproj.Cor
 C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\DAO\obj\Debug\DAO.csproj.CopyComplete
 C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\DAO\obj\Debug\DAO.exe
 C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\DAO\obj\Debug\DAO.pdb
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\DAO\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\DAO\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\DAO\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\DAO\bin\Debug\NLog.dll
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\DAO\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\DAO\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\DAO\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\USER\Source\Repos\DoAnTotNghiep\QLKhachSan\DAO\bin\Debug\NLog.xml
