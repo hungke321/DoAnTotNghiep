@@ -126,7 +126,7 @@ namespace QLKhachSan
             }
             if (flag == 2)
             {
-                Bphong.P_CapNhat(txtID.Text, cboTenLP.Text, txtSoPhong.Text, txtTang.Text, txtGiaThueNgay.Text, txtGiaThueGio.Text, rtxtGhiChu.Text, cboGocNhin.Text, cboBonTam.Text, cboConTrong.Text, cboHieuLuc.Text);
+                Bphong.P_CapNhat(txtID.Text, cboTenLP.SelectedValue.ToString(), txtSoPhong.Text, txtTang.Text, txtGiaThueNgay.Text, txtGiaThueGio.Text, rtxtGhiChu.Text, cboGocNhin.Text, cboBonTam.Text, cboConTrong.Text, cboHieuLuc.Text);
                 MessageBox.Show("sửa thành công rồi nè");
                 dgvDSPhong.DataSource = Bphong.Phong_Select();
             }
